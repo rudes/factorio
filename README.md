@@ -3,7 +3,7 @@
 
 # Early Game Blueprints
 
-[Blueprint Copy Code](early.txt)
+[Blueprint Copy Code](https://raw.githubusercontent.com/rudes/factorio/main/early.txt)
 
 - Version 1.1~
 - 1 - 2 spm
@@ -63,7 +63,7 @@
 
 # Middle Game Blueprints
 
-[Blueprint Copy Code](middle.txt)
+[Blueprint Copy Code](https://raw.githubusercontent.com/rudes/factorio/main/middle.txt)
 
 - Version 1.1~
 - 90 - 100 constant spm
